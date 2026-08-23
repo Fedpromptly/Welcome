@@ -9,3 +9,10 @@ This code repository (or "repo") is designed to demonstrate the best GitHub has 
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 
+![FED-OS Status](https://raw.githubusercontent.com/Fedpromptly/demo-repository/main/badges/fedos-status.svg)
+
+![Network](https://raw.githubusercontent.com/Fedpromptly/demo-repository/main/badges/fedos-network.svg)
+
+![Code](https://raw.githubusercontent.com/Fedpromptly/demo-repository/main/badges/fedos-code.svg)
+
+![Community](https://raw.githubusercontent.com/Fedpromptly/demo-repository/main/badges/fedos-community.svg)
