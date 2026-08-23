@@ -9,16 +9,18 @@ This code repository (or "repo") is designed to demonstrate the best GitHub has 
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 
-<svg xmlns="http://www.w3.org/2000/svg" width="135" height="20" role="img" aria-label="Code: Embeddable">
-  <clipPath id="r"><rect width="135" height="20" rx="4" fill="#fff"/></clipPath>
-  <g clip-path="url(#r)">
-    <rect width="55" height="20" fill="#24292e"/>
-    <rect x="55" width="80" height="20" fill="#2ea043"/>
-  </g>
-  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
-    <text x="275" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="350">Code</text>
-    <text x="275" y="140" transform="scale(.1)" textLength="350">Code</text>
-    <text x="950" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="600">Embeddable</text>
-    <text x="950" y="140" transform="scale(.1)" textLength="600">Embeddable</text>
-  </g>
-</svg>
+<a href='https://fedpromptly.com' target='_blank'>
+    <img height='36' style='border:0px;height:36px;' src='https://img.shields.io/badge/FED--OS-Active-0052cc?style=flat&labelColor=24292e' border='0' alt='FED-OS: Active' />
+</a>
+
+<a href='https://fedpromptly.com' target='_blank'>
+    <img height='36' style='border:0px;height:36px;' src='https://img.shields.io/badge/Network-DPromptly-cc317c?style=flat&labelColor=24292e' border='0' alt='Network: DPromptly' />
+</a>
+
+<a href='https://fedpromptly.com' target='_blank'>
+    <img height='36' style='border:0px;height:36px;' src='https://img.shields.io/badge/Code-Embeddable-2ea043?style=flat&labelColor=24292e' border='0' alt='Code: Embeddable' />
+</a>
+
+<a href='https://fedpromptly.com' target='_blank'>
+    <img height='36' style='border:0px;height:36px;' src='https://img.shields.io/badge/Community-Join%20Server-5865f2?style=flat&labelColor=24292e' border='0' alt='Community: Join Server' />
+</a>
