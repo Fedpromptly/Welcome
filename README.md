@@ -2,8 +2,6 @@
 
 ![Proof HTML](https://github.com/Fedpromptly/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
-![CI](https://github.com/Fedpromptly/demo-repository/actions/workflows/ci.yml/badge.svg)
-
 # Welcome to your organization's demo respository
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
